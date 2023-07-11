@@ -4,6 +4,7 @@ website:
   title: "Maureen Mugo"
   description: "Tech Blog"
   site-url: https://maureenmugo.dev/
+  favicon: favicon.ico
   twitter-card: true
   open-graph: true
   reader-mode: true
