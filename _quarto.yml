@@ -1,0 +1,50 @@
+project:
+  type: website
+website:
+  title: "Maureen Mugo"
+  description: "Tech Blog"
+  site-url: https://maureenmugo.dev/
+  twitter-card: true
+  open-graph: true
+  reader-mode: true
+  repo-url: https://github.com/maureen-mugo/maureenmugo.dev
+  repo-actions: [edit, issue]
+  navbar:
+    search: true
+    background: dark
+    foreground: light
+    left:
+      - href: about.qmd
+        text: About
+      - href: notes.qmd
+        text: Notes
+      - href: til.qmd
+        text: TIL
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/maureen-mugo
+      - icon: twitter
+        href: https://twitter.com/Maureen__Mugo
+      - icon: rss
+        href: index.xml
+  page-footer:
+    background: dark
+    left: "Copright 2023, Maureen Mugo"
+    center:
+      - icon: github
+        href: https://github.com/maureen-mugo
+      - icon: twitter
+        href: https://twitter.com/Maureen__Mugo
+      - icon: linkedin
+        href: https://www.linkedin.com/in/maureen-mugo-6a215a178/
+format:
+  html:
+    theme:
+      light: lumen
+      dark: cosmo
+    css: styles.css
+
+
+
