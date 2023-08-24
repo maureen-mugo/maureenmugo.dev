@@ -15,12 +15,10 @@ website:
     background: dark
     foreground: light
     left:
-      - href: about.qmd
-        text: About
       - href: notes.qmd
         text: Notes
-      - href: til.qmd
-        text: TIL
+      - href: blog.qmd
+        text: Blog
       - href: projects.qmd
         text: Projects
     right:
@@ -32,7 +30,7 @@ website:
         href: index.xml
   page-footer:
     background: dark
-    left: "Copright 2023, Maureen Mugo"
+    left: "© Copyright 2023 Maureen Mugo"
     center:
       - icon: github
         href: https://github.com/maureen-mugo
@@ -44,7 +42,7 @@ format:
   html:
     theme:
       light: lumen
-      dark: cosmo
+      dark: dark
     css: styles.css
 
 
