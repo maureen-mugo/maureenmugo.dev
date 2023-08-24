@@ -1,0 +1,39 @@
+---
+title: "Maureen Mugo"
+image: profile.jpeg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin 
+      url: "https://www.linkedin.com/in/maureen-mugo-6a215a178/"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/Maureen__Mugo"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/maureen-mugo"
+    - text: Kaggle
+      icon: clipboard-data
+      url: "https://www.kaggle.com/maureenwamuyumugo"
+    - text: Huggingface
+      icon: file-post-fill
+      href: "https://huggingface.co/maureenmugo"
+    - text: Email
+      url: "mugomaureenw@gmail.com"
+comments: false
+---
+
+## Hi, I'm Maureen Mugo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I am an AI Engineer and a learner at [fast.ai](https://course.fast.ai/)
+
+
+
+I am quite easy to reach out via [email](mailto:mugomaureenw@gmail.com) or
+feel free to connect or contact me via [linkedIn](https://www.linkedin.com/in/maureen-mugo-6a215a178/) or [twitter](https://twitter.com/Maureen__Mugo).
+ 
+
+
+
+
