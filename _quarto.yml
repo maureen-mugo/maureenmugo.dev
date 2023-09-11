@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - keybase.txt
+    - cv.pdf
 website:
   title: "Maureen Mugo"
   description: "Tech Blog"
