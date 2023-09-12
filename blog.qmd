@@ -1,0 +1,17 @@
+---
+title: "Blogs"
+listing:
+  contents: blogs
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  fields: [image, date, title, description, categories, author]
+  type: grid
+page-layout: full
+title-block-banner: true
+author: ''
+comments: false
+description: Blogs 
+---
