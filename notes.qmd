@@ -1,0 +1,19 @@
+---
+title: Notes
+listing:
+  contents: notes
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [image, categories, title, date, description]
+  date-format: YYYY-MM-DD
+  sort-ui: false
+  filter-ui: false
+  feed: true
+author: ''
+comments: false
+description: Notes on maureenmugo.dev
+title-block-style: none
+---
+
+In this section, I share notes on some of the things I learn as I navigate this machine learning journey.
