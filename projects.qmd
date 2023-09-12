@@ -1,0 +1,11 @@
+---
+title: Projects
+toc: true
+comments: false
+---
+
+My projects are machine learning related. 
+I work on projects for fun, to learn, or to solve a specific problem I have.
+More recent projects are listed first.
+
+Click on a project's heading to go to its website/repo.
