@@ -18,12 +18,12 @@ website:
     background: dark
     foreground: light
     left:
-      - href: notes.qmd
+      - file: notes.qmd
         text: Notes
-      - href: blog.qmd
+      - file: blog.qmd
         text: Blog
       - href: projects.qmd
-        text: Projects
+        file: Projects
     right:
       - icon: github
         href: https://github.com/maureen-mugo
